@@ -1,0 +1,36 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: hotpink;
+}
+
+h2 {
+    font-style: italic;
+}
+
+hr {
+    border-bottom: dotted 10px purple;
+}
+
+.Caja {
+    padding: 10px;
+    border: solid red 1px;
+}
+
+.formulario {
+    background-color: violet;
+    border: 5px solid blueviolet;
+}
+
+.Comentario {
+    background-color: rgb(152, 152, 104);
+    border: 5px solid rgb(236, 255, 127);
+}
+
+.Comentario:hover {
+    background-color: red;
+    transition: 1s;
+}
+
